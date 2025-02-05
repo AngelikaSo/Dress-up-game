@@ -1,8 +1,11 @@
+import Chat from "./Chat";
+
 const Desktop = () => {
   return (
     <div>
       <nav>
-        <p>gadu-gadu</p>
+        <Chat />
+
         <p>games</p>
         <p>my computer</p>
         <p>recycle bin</p>
