@@ -1,14 +1,21 @@
 import Chat from "./Chat";
+import Games from "./Games";
+import MyComputer from "./MyComputer";
+import Files from "./Files";
+import Trash from "./Trash";
 
 const Desktop = () => {
   return (
-    <div>
-      <nav>
+    <div className="desktop">
+      <div className="desktop-body">
+        <Games />
+        <MyComputer />
+        <Files />
         <Chat />
-
-        <p>games</p>
-        <p>my computer</p>
-        <p>recycle bin</p>
+        <Trash />
+      </div>
+      <nav className="desktop-nav">
+        <button className="desktop-start">Start</button>
       </nav>
     </div>
   );
