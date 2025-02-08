@@ -1,4 +1,4 @@
-import { ReactComponent as FilesIcon } from "../Assets/DesktopIcons/files.svg";
+import { ReactComponent as FilesIcon } from "../Assets/DesktopIcons/files-1.svg";
 
 const Files = () => {
   return (
