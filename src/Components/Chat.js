@@ -1,4 +1,4 @@
-import { ReactComponent as Gadu } from "../Assets/DesktopIcons/gadu-gadu-1.svg";
+import { ReactComponent as Gadu } from "../Assets/DesktopIcons/gadu-gadu-2.svg";
 
 const Chat = () => {
   return (

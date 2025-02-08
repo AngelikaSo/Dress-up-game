@@ -1,4 +1,4 @@
-import { ReactComponent as GamesIcon } from "../Assets/DesktopIcons/games.svg";
+import { ReactComponent as GamesIcon } from "../Assets/DesktopIcons/games-1.svg";
 
 const Games = () => {
   return (

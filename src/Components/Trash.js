@@ -1,4 +1,4 @@
-import { ReactComponent as TrashIcon } from "../Assets/DesktopIcons/trash.svg";
+import { ReactComponent as TrashIcon } from "../Assets/DesktopIcons/trash-1.svg";
 
 const Trash = () => {
   return (

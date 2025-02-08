@@ -8,8 +8,8 @@ const Desktop = () => {
   return (
     <div className="desktop">
       <div className="desktop-body">
-        <Games />
         <MyComputer />
+        <Games />
         <Files />
         <Chat />
         <Trash />

@@ -1,4 +1,4 @@
-import { ReactComponent as MyComputerIcon } from "../Assets/DesktopIcons/my-computer.svg";
+import { ReactComponent as MyComputerIcon } from "../Assets/DesktopIcons/my-computer-1.svg";
 
 const MyComputer = () => {
   return (
