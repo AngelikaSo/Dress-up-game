@@ -1,10 +1,12 @@
 import "./App.css";
 import Desktop from "./Components/Desktop";
+import Window from "./Components/Window";
 
 function App() {
   return (
     <div className="App">
-      <Desktop />
+      <Desktop className="centered" />
+      <Window />
     </div>
   );
 }
